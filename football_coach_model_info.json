@@ -1,0 +1,8 @@
+{
+  "model_id": "ft:gpt-4o-mini-2024-07-18:isvisoft::B6z0LmHd",
+  "job_id": "ftjob-8arH04JjmgN0lLLZm62UfEHe",
+  "training_file": "file-AjhnJE8HB8pLjXu9Gf9ftY",
+  "validation_file": "file-AhRzFYy8gm87rGVhbMSVYU",
+  "created_at": "1741003344",
+  "finished_at": "1741004167",
+  "hyperparameters": 
